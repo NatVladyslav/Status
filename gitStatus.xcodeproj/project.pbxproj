@@ -13,6 +13,7 @@
 		ADAF4A0028D9E9E700DB8D0B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADAF49FE28D9E9E700DB8D0B /* Main.storyboard */; };
 		ADAF4A0228D9E9E800DB8D0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADAF4A0128D9E9E800DB8D0B /* Assets.xcassets */; };
 		ADAF4A0528D9E9E800DB8D0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADAF4A0328D9E9E800DB8D0B /* LaunchScreen.storyboard */; };
+		ADAF4A0D28D9EA9E00DB8D0B /* git.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAF4A0C28D9EA9E00DB8D0B /* git.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ADAF4A0128D9E9E800DB8D0B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ADAF4A0428D9E9E800DB8D0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ADAF4A0628D9E9E800DB8D0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ADAF4A0C28D9EA9E00DB8D0B /* git.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = git.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				ADAF49F828D9E9E700DB8D0B /* AppDelegate.swift */,
 				ADAF49FA28D9E9E700DB8D0B /* SceneDelegate.swift */,
 				ADAF49FC28D9E9E700DB8D0B /* ViewController.swift */,
+				ADAF4A0C28D9EA9E00DB8D0B /* git.swift */,
 				ADAF49FE28D9E9E700DB8D0B /* Main.storyboard */,
 				ADAF4A0128D9E9E800DB8D0B /* Assets.xcassets */,
 				ADAF4A0328D9E9E800DB8D0B /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ADAF4A0D28D9EA9E00DB8D0B /* git.swift in Sources */,
 				ADAF49FD28D9E9E700DB8D0B /* ViewController.swift in Sources */,
 				ADAF49F928D9E9E700DB8D0B /* AppDelegate.swift in Sources */,
 				ADAF49FB28D9E9E700DB8D0B /* SceneDelegate.swift in Sources */,
