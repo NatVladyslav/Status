@@ -12,4 +12,5 @@ var text1 = "Second part of text"
 var a: Int = 10
 var b = Int(20)
 var c = 10.5
+var d = Int(c) * b
 
